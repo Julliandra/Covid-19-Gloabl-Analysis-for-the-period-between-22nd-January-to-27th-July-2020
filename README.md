@@ -1,3 +1,3 @@
-# Covid-19-Gloabl-Analysis-for-the-period-between-22nd-January-to-27th-July-2020
+# Covid-19-Global-Analysis-for-the-period-between-22nd-January-to-27th-July-2020
 This project uses a Covid data set from the Kaggle repository to establish findings that can contribute to reducing the burden of the virus.The data covers the outbreak within a certain period. All analysis and visualization were performed using Power BI. 
 This report addressed the following questions. What is the covid situation at the global and country-level; 	Are there similarities between countries; Did the public health interventions such as social distancing, lockdown, and quarantine impact the number of cases; Does the infection have peaks and troughs; Are there epidemiological trends in the prevalence and death of people during the period under review.
